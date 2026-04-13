@@ -1,4 +1,4 @@
-# vajra-skills
+# Vajra Skills
 
 Personal Claude Code skills collection. Each skill lives in `skills/<name>/SKILL.md` and is symlinked to `~/.claude/skills/` for use.
 
